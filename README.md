@@ -1,4 +1,4 @@
-@gabriochee is Student at ESGI paris.
+@gabriochee is student at ESGI paris. C++ and Rust are my main languages.
 
 <!---
 gabriochee/gabriochee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
