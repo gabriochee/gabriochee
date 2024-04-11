@@ -1,4 +1,4 @@
-@gabriochee is student at ESGI paris. C++ and Rust are my main languages.
+@gabriochee is student at ESGI paris. System oriented programming languages are my mains.
 
 <!---
 gabriochee/gabriochee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
