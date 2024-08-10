@@ -1,4 +1,4 @@
-@gabriochee is student at ESGI paris. System oriented programming languages are my mains.
+@gabriochee is student at ESGI Paris. System oriented programming languages are my mains.
 
 <!---
 gabriochee/gabriochee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
